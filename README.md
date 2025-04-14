@@ -58,4 +58,15 @@
 
 ---
 
+### 💡 5주차
+| 주제 | 담당자 |
+|------|:--:|
+| 🖥️ Operation System | 상찬 |
+| 🎨 Design Pattern | 지훈 |
+| 🌐 Network | 대현 |
+| 🗄️ DataBase | 상호 |
+| 📊 Data Structure | 준혁 |
+
+---
+
 궁금한 점이나 건의사항 있으면 언제든지 말씀해주세요! 🙋‍♂️🙋‍♀️
